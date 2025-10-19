@@ -1,2 +1,2 @@
 #!/bin/bash
-echo -e '#!/usr/bin/python3 \nprint("Best School")' > main.py
+echo "it's fun!"
