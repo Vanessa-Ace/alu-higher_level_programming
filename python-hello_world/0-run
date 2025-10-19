@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'print ("Best School")'
+echo '#/usr/bin/python3 print("Best School")' > main.py
